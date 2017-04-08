@@ -1,0 +1,1379 @@
+{
+  "seller": {
+    "name": "大润发",
+    "description": "蜂鸟专送",
+    "deliveryTime": 38,
+    "score": 4.2,
+    "serviceScore": 4.1,
+    "foodScore": 4.3,
+    "rankRate": 69.2,
+    "minPrice": 20,
+    "deliveryPrice": 4,
+    "ratingCount": 24,
+    "sellCount": 90,
+    "bulletin": "大润发（英文：RT-MART）是一家台湾的大型连锁量贩超市，由润泰集团总裁尹衍梁所创设。由于台湾的纺织产业到了1990年代面临了人工成本高涨、海外低价竞争的威胁，使纺织产业在台湾逐渐步入夕阳工业的命运，而润泰集团的主要企业润泰纺织也面临相同的问题。 所以，润泰集团也开始寻求转型，因而开始扩大转投资事业的范围与规模，例如转投资保险 、 金融事业及流通事业就是最好的例子。",
+    "supports": [
+      {
+        "type": 0,
+        "description": "在线支付满78减15"
+      },
+      {
+        "type": 1,
+        "description": "小台农芒果"
+      },
+      {
+        "type": 2,
+        "description": "蒙牛特仑苏牛奶"
+      },
+      {
+        "type": 3,
+        "description": "该商家支持发票,请下单写好发票抬头"
+      },
+      {
+        "type": 4,
+        "description": "已加入“外卖保”计划,食品安全保障"
+      }
+    ],
+    "avatar": "https://gd2.alicdn.com/imgextra/i2/1096976187/TB2Q2Y3aFXXXXX9XpXXXXXXXXXX_!!1096976187.jpg_400x400.jpg",
+    "pics": [
+      "http://img3.imgtn.bdimg.com/it/u=3723472185,1331702536&fm=23&gp=0.jpg",
+      "http://img5.imgtn.bdimg.com/it/u=2352808784,4188942661&fm=23&gp=0.jpg",
+      "http://food.365jia.cn/uploads/news/folder_15948/images/IMG_8545%281%29.jpg",
+      "http://s9.sinaimg.cn/mw690/abcd3191gd6b0f7d5ce38&690"
+    ],
+    "infos": [
+      "该商家支持发票,请下单写好发票抬头",
+      "品类:水果蔬菜,美容洗护，家居日用",
+      "滨州市黄河六路",
+      "营业时间:9:00-21:30"
+    ]
+  },
+  "goods": [
+    {
+      "name": "热卖Top",
+      "type": -1,
+      "foods": [
+        {
+          "name": "国产香蕉1.2kg/份",
+          "price": 5.99,
+          "oldPrice": "",
+          "description": "水果",
+          "sellCount": 229,
+          "rating": 100,
+          "info": "香蕉的含水量较高约70%，且含有丰富的碳水化合物、蛋白质、膳食纤维、磷、钾、维生素A和维生素C",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "很喜欢",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "香蕉好吃不贵，其肉质软糯,香甜可口，富含营养，值得拥有",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=2794929755,1758125578&fm=21&gp=0.jpg",
+          "image": "https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=2794929755,1758125578&fm=21&gp=0.jpg"
+        },
+        {
+          "name": "精品五花500g",
+          "price": 19.30,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 188,
+          "rating": 96,
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "info": "",
+          "icon": "https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=3315545782,2357377024&fm=21&gp=0.jpg",
+          "image": "https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=3315545782,2357377024&fm=21&gp=0.jpg"
+        },
+        {
+          "name": "进口脐橙4粒装",
+          "price": 15.99,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 124,
+          "rating": 85,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 1,
+              "text": "没啥味道",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 1,
+              "text": "很一般啊",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=3459891427,3506972611&fm=23&gp=0.jpg",
+          "image": "https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=3459891427,3506972611&fm=23&gp=0.jpg"
+        },
+        {
+          "name": "精品后尖500g",
+          "price": 11.18,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 114,
+          "rating": 91,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 1,
+              "text": "难吃不推荐",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=1849582436,994943550&fm=21&gp=0.jpg",
+          "image": "https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=1849582436,994943550&fm=21&gp=0.jpg"
+        },
+        {
+          "name": "香满园优选珍珠米5kg",
+          "price": 32.90,
+          "oldPrice": "",
+          "description": "粮油",
+          "sellCount": 107,
+          "rating": 78,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 1,
+              "text": "好吃",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=1585217174,1229896706&fm=21&gp=0.jpg",
+          "image": "https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=1585217174,1229896706&fm=21&gp=0.jpg"
+        },
+        {
+          "name": "双汇玉米热狗肠40g*8",
+          "price": 19.00,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 91,
+          "rating": 100,
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=851282537,399887023&fm=21&gp=0.jpg",
+          "image": "https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=851282537,399887023&fm=21&gp=0.jpg"
+        },
+        {
+          "name": "五丰长粒香米5kg",
+          "price": 33.90,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 86,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=337736736,1624946336&fm=21&gp=0.jpg",
+          "image": "https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=337736736,1624946336&fm=21&gp=0.jpg"
+        },
+        {
+          "name": "古币芝麻香油",
+          "price": 10,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 84,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=3839656760,3156132210&fm=21&gp=0.jpg",
+          "image": "https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=3839656760,3156132210&fm=21&gp=0.jpg"
+        },
+        {
+          "name": "厄瓜多尔虾/中 500g",
+          "price": 36.78,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 81,
+          "rating": 91,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=3425878802,1475105280&fm=21&gp=0.jpg",
+          "image": "https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=3425878802,1475105280&fm=21&gp=0.jpg"
+        },
+        {
+          "name": "金龙鱼纯正玉米油4L",
+          "price": 37.90,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 80,
+          "rating": 93,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1670638882,675031517&fm=21&gp=0.jpg",
+          "image": "https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1670638882,675031517&fm=21&gp=0.jpg"
+        }
+      ]
+    },
+    {
+      "name": "时令水果",
+      "type": 2,
+      "foods": [
+        {
+          "name": "泰国龙眼300g",
+          "price": 8.88,
+          "oldPrice": 36,
+          "description": "泰国龙眼",
+          "sellCount": 17,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://b.hiphotos.baidu.com/baike/w%3D268%3Bg%3D0/sign=6c11887a4c540923aa696478aa63b634/f3d3572c11dfa9ec6bb3204e67d0f703908fc1ce.jpg",
+          "image": "http://b.hiphotos.baidu.com/baike/w%3D268%3Bg%3D0/sign=6c11887a4c540923aa696478aa63b634/f3d3572c11dfa9ec6bb3204e67d0f703908fc1ce.jpg"
+        }
+      ]
+    },
+    {
+      "name": "冰鲜水产",
+      "type": 1,
+      "foods": [
+        {
+          "name": "海鲜鲈鱼2条1.5kg",
+          "price": 34.90,
+          "oldPrice": 39.99,
+          "description": "",
+          "sellCount": 15,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "还可以",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://image.hxyxt.com/medias/sys_master/images/images/h75/h26/9361128816670.jpg",
+          "image": "http://image.hxyxt.com/medias/sys_master/images/images/h75/h26/9361128816670.jpg"
+        }
+      ]
+    },
+    {
+      "name": "绿色蔬菜",
+      "type": -1,
+      "foods": [
+        {
+          "name": "菠菜300g",
+          "price": 2.60,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 43,
+          "rating": 92,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "菜很新鲜",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://img2.imgtn.bdimg.com/it/u=1408419404,3299383786&fm=21&gp=0.jpg",
+          "image": "http://img2.imgtn.bdimg.com/it/u=1408419404,3299383786&fm=21&gp=0.jpg"
+        },
+        {
+          "name": "金针菇150g",
+          "price": 2.30,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 29,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://img4.imgtn.bdimg.com/it/u=319769362,993308622&fm=21&gp=0.jpg",
+          "image": "http://img4.imgtn.bdimg.com/it/u=319769362,993308622&fm=21&gp=0.jpg"
+        },
+        {
+          "name": "奶油生菜200g",
+          "price": 4.20,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 15,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://img4.imgtn.bdimg.com/it/u=2462849450,1137177836&fm=21&gp=0.jpg",
+          "image": "http://img4.imgtn.bdimg.com/it/u=2462849450,1137177836&fm=21&gp=0.jpg"
+        }
+      ]
+    },
+    {
+      "name": "粮油速食",
+      "type": -1,
+      "foods": [
+        {
+          "name": "鲁花压榨一级花生油5L",
+          "price": 149.90,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 84,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://img0.imgtn.bdimg.com/it/u=3593052850,902028288&fm=21&gp=0.jpg",
+          "image": "http://img0.imgtn.bdimg.com/it/u=3593052850,902028288&fm=21&gp=0.jpg"
+        },
+        {
+          "name": "中盐低钠岩盐350g*4",
+          "price": 11.59,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 28,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://img3.imgtn.bdimg.com/it/u=2763391223,546953230&fm=21&gp=0.jpg",
+          "image": "http://img3.imgtn.bdimg.com/it/u=2763391223,546953230&fm=21&gp=0.jpg"
+        }
+      ]
+    },
+    {
+      "name": "休闲食品",
+      "type": -1,
+      "foods": [
+        {
+          "name": "好想你枣片70g",
+          "price": 6.5,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 3,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://img2.imgtn.bdimg.com/it/u=2025012944,754669356&fm=23&gp=0.jpg",
+          "image": "http://img2.imgtn.bdimg.com/it/u=2025012944,754669356&fm=23&gp=0.jpg"
+        },
+        {
+          "name": "有友山椒凤爪100g",
+          "price": 6.50,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 12,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://img4.imgtn.bdimg.com/it/u=1179072327,3815468645&fm=21&gp=0.jpg",
+          "image": "http://img4.imgtn.bdimg.com/it/u=1179072327,3815468645&fm=21&gp=0.jpg"
+        }
+      ]
+    },
+    {
+      "name": "酒水饮料",
+      "type": -1,
+      "foods": [
+        {
+          "name": "农夫山泉天然水4L*4",
+          "price": 24.80,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 1,
+          "rating": "",
+          "info": "",
+          "ratings": [],
+          "icon": "http://img4.imgtn.bdimg.com/it/u=4084722825,910797869&fm=21&gp=0.jpg",
+          "image": "http://img4.imgtn.bdimg.com/it/u=4084722825,910797869&fm=21&gp=0.jpg"
+        },
+        {
+          "name": "雪花冰酷9度听啤330ml",
+          "price": 3.00,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 7,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://img0.imgtn.bdimg.com/it/u=4049735269,2025275625&fm=21&gp=0.jpg",
+          "image": "http://img0.imgtn.bdimg.com/it/u=4049735269,2025275625&fm=21&gp=0.jpg"
+        },
+        {
+          "name": "秋林格瓦斯1.5L*6",
+          "price": 35.00,
+          "oldPrice": 45.00,
+          "description": "",
+          "sellCount": 15,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "还可以",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://i0.sinaimg.cn/travel/2014/0323/U7398P704DT20140323225214.jpg",
+          "image": "http://i0.sinaimg.cn/travel/2014/0323/U7398P704DT20140323225214.jpg"
+        }
+      ]
+    },
+    {
+      "name": "母婴用品",
+      "type": -1,
+      "foods": [
+        {
+          "name": "唯本生活婴儿手口湿巾",
+          "price": 10.90,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 188,
+          "rating": 96,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://img5.imgtn.bdimg.com/it/u=2556747947,2039860882&fm=21&gp=0.jpg",
+          "image": "http://img5.imgtn.bdimg.com/it/u=2556747947,2039860882&fm=21&gp=0.jpg"
+        },
+        {
+          "name": "强生婴儿牛奶沐浴露300ml",
+          "price": 15.90,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 124,
+          "rating": 85,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 1,
+              "text": "挺香的",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 1,
+              "text": "很一般啊",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://img3.imgtn.bdimg.com/it/u=2681792324,3838843865&fm=21&gp=0.jpg",
+          "image": "http://img3.imgtn.bdimg.com/it/u=2681792324,3838843865&fm=21&gp=0.jpg"
+        },
+        {
+          "name": "好奇金装纸尿裤NB号70片",
+          "price": 36.80,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 114,
+          "rating": 91,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 1,
+              "text": "好用推荐",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://img4.imgtn.bdimg.com/it/u=1288947054,2336697538&fm=21&gp=0.jpg",
+          "image": "http://img4.imgtn.bdimg.com/it/u=1288947054,2336697538&fm=21&gp=0.jpg"
+        },
+        {
+          "name": "雀巢能恩金盾1配方奶粉400g",
+          "price": 86.00,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 101,
+          "rating": 78,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 1,
+              "text": "超级棒",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://img2.imgtn.bdimg.com/it/u=2717472494,2942958808&fm=21&gp=0.jpg",
+          "image": "http://img2.imgtn.bdimg.com/it/u=2717472494,2942958808&fm=21&gp=0.jpg"
+        },
+        {
+          "name": "心相印优选婴儿pp清洁柔湿巾",
+          "price": 8.90,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 80,
+          "rating": 93,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://img1.imgtn.bdimg.com/it/u=2172533832,2394878219&fm=23&gp=0.jpg",
+          "image": "http://img1.imgtn.bdimg.com/it/u=2172533832,2394878219&fm=23&gp=0.jpg"
+        }
+      ]
+    },
+    {
+      "name": "清洁洗护",
+      "type": -1,
+      "foods": [
+        {
+          "name": "立白内衣专用除菌皂101g",
+          "price": 5.90,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 229,
+          "rating": 100,
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "很喜欢",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://img1.imgtn.bdimg.com/it/u=1491890232,273104911&fm=21&gp=0.jpg",
+          "image": "http://img1.imgtn.bdimg.com/it/u=1491890232,273104911&fm=21&gp=0.jpg"
+        },
+        {
+          "name": "泉林本色卫生纸10卷*260节",
+          "price": 19.90,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 91,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://img0.imgtn.bdimg.com/it/u=4250981927,2028932951&fm=21&gp=0.jpg",
+          "image": "http://img0.imgtn.bdimg.com/it/u=4250981927,2028932951&fm=21&gp=0.jpg"
+        },
+        {
+          "name": "立白透明皂220g*2",
+          "price": 9.45,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 86,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://img4.imgtn.bdimg.com/it/u=1672993666,3753346006&fm=21&gp=0.jpg",
+          "image": "http://img4.imgtn.bdimg.com/it/u=1672993666,3753346006&fm=21&gp=0.jpg"
+        },
+        {
+          "name": "云南白药牙膏留兰香型120g",
+          "price": 18.90,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 81,
+          "rating": 91,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://img4.imgtn.bdimg.com/it/u=1631456722,2884232074&fm=21&gp=0.jpg",
+          "image": "http://img4.imgtn.bdimg.com/it/u=1631456722,2884232074&fm=21&gp=0.jpg"
+        },
+        {
+          "name": "洁润果C爽肤启封湿巾12片",
+          "price": 1.12,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 56,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": ""
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=1699702331,339389888&fm=23&gp=0.jpg",
+          "image": "https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=1699702331,339389888&fm=23&gp=0.jpg"
+        },
+        {
+          "name": "汰渍高效能洗衣液200g*10",
+          "price": 10.90,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 33,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=3350482982,2907019200&fm=21&gp=0.jpg",
+          "image": "https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=3350482982,2907019200&fm=21&gp=0.jpg"
+        }
+      ]
+    }
+  ],
+  "ratings": [
+    {
+      "username": "3******c",
+      "rateTime": 1469281964000,
+      "deliveryTime": 30,
+      "score": 5,
+      "rateType": 0,
+      "text": "不错,商品很好,我经常来这一家,非常赞,以后也会常来,强烈推荐.",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": [
+        "心相印",
+        "立白",
+        "舒肤佳",
+        "清风",
+        "佳洁士"
+      ]
+    },
+    {
+      "username": "2******3",
+      "rateTime": 1469271264000,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "deliveryTime": "",
+      "text": "服务态度不错",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": [
+        "三江雪"
+      ]
+    },
+    {
+      "username": "3******b",
+      "rateTime": 1469261964000,
+      "score": 3,
+      "rateType": 1,
+      "text": "",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "1******c",
+      "rateTime": 1469261864000,
+      "deliveryTime": 20,
+      "score": 5,
+      "rateType": 0,
+      "text": "良心超市",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "2******d",
+      "rateTime": 1469251264000,
+      "deliveryTime": 10,
+      "score": 4,
+      "rateType": 0,
+      "text": "",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "9******0",
+      "rateTime": 1469241964000,
+      "deliveryTime": 70,
+      "score": 1,
+      "rateType": 1,
+      "text": "送货速度蜗牛一样",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "d******c",
+      "rateTime": 1469231964000,
+      "deliveryTime": 30,
+      "score": 5,
+      "rateType": 0,
+      "text": "很喜欢的超市",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "2******3",
+      "rateTime": 1469221264000,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "text": "质量还可以",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "3******8",
+      "rateTime": 1469211964000,
+      "deliveryTime": "",
+      "score": 3,
+      "rateType": 1,
+      "text": "",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "a******a",
+      "rateTime": 1469201964000,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "text": "孩子喜欢来这家",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": [
+        "康师傅"
+      ]
+    },
+    {
+      "username": "3******3",
+      "rateTime": 1469191264000,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "text": "挺好",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "t******b",
+      "rateTime": 1469181964000,
+      "deliveryTime": "",
+      "score": 3,
+      "rateType": 1,
+      "text": "",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "f******c",
+      "rateTime": 1469171964000,
+      "deliveryTime": 15,
+      "score": 5,
+      "rateType": 0,
+      "text": "送货速度很快",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "k******3",
+      "rateTime": 1469161264000,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "text": "",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "u******b",
+      "rateTime": 1469151964000,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "text": "下雨天给快递小哥点个赞",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "s******c",
+      "rateTime": 1469141964000,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "text": "好",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "z******3",
+      "rateTime": 1469131264000,
+      "deliveryTime": "",
+      "score": 5,
+      "rateType": 0,
+      "text": "超级棒",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "n******b",
+      "rateTime": 1469121964000,
+      "deliveryTime": "",
+      "score": 3,
+      "rateType": 1,
+      "text": "发票开的不对",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "m******c",
+      "rateTime": 1469111964000,
+      "deliveryTime": 30,
+      "score": 5,
+      "rateType": 0,
+      "text": "好",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "l******3",
+      "rateTime": 1469101264000,
+      "deliveryTime": 40,
+      "score": 5,
+      "rateType": 0,
+      "text": "还不错吧",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "3******o",
+      "rateTime": 1469091964000,
+      "deliveryTime": "",
+      "score": 2,
+      "rateType": 1,
+      "text": "",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "3******p",
+      "rateTime": 1469081964000,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "text": "很喜欢",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "o******k",
+      "rateTime": 1469071264000,
+      "deliveryTime": "",
+      "score": 5,
+      "rateType": 0,
+      "text": "",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "k******b",
+      "rateTime": 1469061964000,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "text": "",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    }
+  ]
+}
